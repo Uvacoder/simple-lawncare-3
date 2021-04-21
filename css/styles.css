@@ -173,7 +173,8 @@ body {
 }
 .slider-caption > button i {
   position: absolute;
-  bottom: 12px;
+  bottom: 13px;
+  right: 8px;
   transition: 0.6s cubic-bezier(0, 3.15, 1, -0.8);
 }
 .slider-caption > button:hover i {
