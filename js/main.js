@@ -11,7 +11,6 @@ jQuery(document).ready(function($) {
     autoplay:true,
     autoplayTimeout:2300,
     autoplayHoverPause:true,
-    loop:true
   });
 
   $("#testimonial-slider").owlCarousel({
@@ -24,6 +23,6 @@ jQuery(document).ready(function($) {
     autoplay:true,
     autoplayTimeout:2300,
     autoplayHoverPause:true,
-    loop:true
+    
   });
 })
